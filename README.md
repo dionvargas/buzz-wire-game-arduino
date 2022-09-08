@@ -12,6 +12,6 @@ Ao acabar as vidas do jogador a sirene soa ininterruptamente até que o Arduino 
 ## Uso
 Abaixo a montagem da eletrônica do protótipo:
 
-![buzz-wire](img/buzz-wire.svg)
+![buzz-wire](img/buzz-wire.png)
 
 Caso o jogo esteja muito fácil pode-se alterar a linha ```int vidas = 9;``` para menos vidas iniciais ou mudar o formato do arame.

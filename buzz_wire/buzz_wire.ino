@@ -1,5 +1,5 @@
 
-int anel = 3;
+int anel = 5;
 int buzzer = 6;
 int segE = 7;
 int segD = 8;
